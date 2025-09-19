@@ -37,8 +37,7 @@ This project uses moss as a bioindicator to detect industrial gases. ESP32-CAM a
   [Bioindicator Demo]https://sites.google.com/view/deep-gaze/home 
   *Google Sites page with video demonstration and images of the physical setup.*
 
-- **Prototype Image** *(optional)*  
-  *Physical setup showing moss-based bioindicator system integrated with ESP32-CAM and environmental sensors.*
+
 
 ---
 
